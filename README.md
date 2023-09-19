@@ -23,6 +23,7 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 3. Open your terminal or command prompt.
 4. Navigate to the directory where you want to store your local copy.
 5. Run the following command, replacing `<repository-url>` with the URL you copied:
+   
    ```
    git clone <repository-url>
    ```
@@ -30,10 +31,13 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 ### Create a New Branch
 
 1. Navigate to the repository folder on your local machine:
+   
    ```
    cd open-source-practice-repo
    ```
+   
 2. Create a new branch for your contribution. Give it a descriptive name:
+   
    ```
    git checkout -b add-john-doe
    ```
@@ -47,6 +51,7 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 1. Inside the `contributors` folder, you'll find a file named `names.md`. Open it.
 
 2. Add your name to the file in alphabetical order under the respective section (A, B, C, etc.). Follow the format:
+   
    ```
    - [Your Name](https://your-website-or-profile-link)
    ```
