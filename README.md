@@ -8,7 +8,6 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 
 - [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
-- [Contributing Guidelines](#contributing-guidelines)
 - [License](#license)
 
 ## How to Contribute
@@ -29,6 +28,7 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 ![Clone the repository](./images/image2.png)
 
 5. Run the following command, replacing `<repository-url>` with the URL you copied:
+   
    ```
    git clone <repository-url>
    ```
@@ -36,10 +36,13 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 ### Create a New Branch
 
 1. Navigate to the repository folder on your local machine:
+   
    ```
    cd open-source-practice-repo
    ```
+   
 2. Create a new branch for your contribution. Give it a descriptive name:
+   
    ```
    git checkout -b add-john-doe
    ```
@@ -55,6 +58,7 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 1. Inside the `contributors` folder, you'll find a file named `names.md`. Open it.
 
 2. Add your name to the file in alphabetical order under the respective section (A, B, C, etc.). Follow the format:
+   
    ```
    - [Your Name](https://your-website-or-profile-link)
    ```
@@ -91,10 +95,6 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 ## Code of Conduct
 
 Please review our [Code of Conduct](link-to-code-of-conduct) before participating. We expect all contributors to adhere to it.
-
-## Contributing Guidelines
-
-For detailed instructions on contributing to this repository, including how to format your contributions and add your name to the `names.md` file, please refer to our [Contributing Guidelines](link-to-contributing-guidelines).
 
 ## License
 
