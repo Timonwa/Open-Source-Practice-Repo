@@ -8,7 +8,6 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 
 - [How to Contribute](#how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
-- [Contributing Guidelines](#contributing-guidelines)
 - [License](#license)
 
 ## How to Contribute
@@ -80,10 +79,6 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 ## Code of Conduct
 
 Please review our [Code of Conduct](link-to-code-of-conduct) before participating. We expect all contributors to adhere to it.
-
-## Contributing Guidelines
-
-For detailed instructions on contributing to this repository, including how to format your contributions and add your name to the `names.md` file, please refer to our [Contributing Guidelines](link-to-contributing-guidelines).
 
 ## License
 
