@@ -17,12 +17,17 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 
 1. Click the "Fork" button in the upper right corner of this repository's page. This will create a copy of the repo in your GitHub account.
 
+![Fork button on GitHub](./images/image1.png)
+
 ### Clone the Repository
 
 1. Go to your forked repo on your GitHub account.
 2. Click the "Code" button and copy the repository URL.
 3. Open your terminal or command prompt.
 4. Navigate to the directory where you want to store your local copy.
+
+![Clone the repository](./images/image2.png)
+
 5. Run the following command, replacing `<repository-url>` with the URL you copied:
    ```
    git clone <repository-url>
@@ -38,6 +43,8 @@ If you are new to open source or hacktoberfest and want to learn more, check out
    ```
    git checkout -b add-john-doe
    ```
+
+![Create a new branch](./images/image3.png)
 
 ### Make Your Changes
 
@@ -71,11 +78,15 @@ If you are new to open source or hacktoberfest and want to learn more, check out
    git push origin add-john-doe
    ```
 
+![Push your changes](./images/image4.png)
+
 ### Create a Pull Request
 
 1. Go to your forked repository on GitHub.
 2. Click the "Pull Request" button.
 3. Follow the prompts to create your pull request.
+
+![Create a pull request](./images/image5.png)
 
 ## Code of Conduct
 
