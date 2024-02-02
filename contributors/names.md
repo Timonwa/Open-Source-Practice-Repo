@@ -20,7 +20,7 @@
 
 - [Jane Doe](https://example.com)
 - [John Doe](https://example.com)
-- [Jobin sabu](https://github.com/jokutten/Open-Source-Practice-Repo/edit/feature/jobin/contributors/names.md)
+- [Jobin sabu](https://github.com/JOBIN-SABU/Open-Source-Practice-Repo/edit/feature/jobin/contributors/names.md)
 
 [Back to top 🔝](#table-of-contents)
 
