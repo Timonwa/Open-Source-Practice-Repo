@@ -6,7 +6,7 @@
 
 ## A
 
--
+- [Abdul Muizz](https://github.com/lone-wolve24?tab=repositories)
 
 [Back to top 🔝](#table-of-contents)
 
