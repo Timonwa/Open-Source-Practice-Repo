@@ -1,5 +1,7 @@
 # Open Source Practice Repository
 
+_If you found this repo helpful, please give it a ⭐!_
+
 Welcome to the Open Source Practice Repository! This is a space for you to learn the ropes of contributing to open-source projects. Whether you're a newbie or an experienced developer, this repo will guide you through the process.
 
 If you are new to open source or hacktoberfest and want to learn more, check out [The Beginners Guide to Hacktoberfest](https://blog.timonwa.com/series/the-beginners-guide-to-hacktoberfest).
