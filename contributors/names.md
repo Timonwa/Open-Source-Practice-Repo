@@ -27,6 +27,6 @@
 
 ## T
 
-- [Timonwa Akintokun](https://blog.timonwa.com)
+- [Timonwa Akintokun](https://tech.timonwa.com/blog)
 
 [Back to top 🔝](#table-of-contents)
