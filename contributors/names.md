@@ -29,4 +29,7 @@
 
 - [Timonwa Akintokun](https://tech.timonwa.com/blog)
 
+## Z
+- [Zack Bond](https://github.com/shivgodi7)
+
 [Back to top 🔝](#table-of-contents)
