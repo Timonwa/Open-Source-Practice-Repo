@@ -29,4 +29,7 @@
 
 - [Timonwa Akintokun](https://tech.timonwa.com/blog)
 
+## Z
+- [Zack Bond](zackbond.com)
+
 [Back to top 🔝](#table-of-contents)
