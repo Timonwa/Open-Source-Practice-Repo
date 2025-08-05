@@ -96,10 +96,10 @@ If you are new to open source or hacktoberfest and want to learn more, check out
 
 ## Code of Conduct
 
-Please review our [Code of Conduct](link-to-code-of-conduct) before participating. We expect all contributors to adhere to it.
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating. We expect all contributors to adhere to it.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 Happy contributing! 🚀
