@@ -7,6 +7,7 @@
 ## A
 
 - [Abdul Muizz](https://github.com/lone-wolve24?tab=repositories)
+  -Aman
 
 [Back to top 🔝](#table-of-contents)
 
@@ -21,10 +22,12 @@
 - [Jane Doe](https://example.com)
 - [John Doe](https://example.com)
 - [jobin sabu](https://github.com/JOBIN-SABU)
-- Jason 
+- Jason
 
 [Back to top 🔝](#table-of-contents)
+
 ## S
+
 - Sharon Saji
 
 ## T
@@ -32,6 +35,7 @@
 - [Timonwa Akintokun](https://tech.timonwa.com/blog)
 
 ## Z
+
 - [Zack Bond](https://github.com/shivgodi7)
 
 [Back to top 🔝](#table-of-contents)
