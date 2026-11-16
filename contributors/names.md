@@ -26,6 +26,7 @@
 [Back to top 🔝](#table-of-contents)
 ## S
 - Sharon Saji
+- [Shikhar Sharma](https://github.com/shikjazz)
 
 ## T
 
