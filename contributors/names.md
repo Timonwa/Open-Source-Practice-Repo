@@ -25,6 +25,11 @@
 - [Jeba Kishore J](https://github.com/jebakishore509-sys)
 
 [Back to top 🔝](#table-of-contents)
+## K
+
+- [kamalesh](https://github.com/tvmkamalesh3031-maker)
+
+[Back to top 🔝](#table-of-contents)
 ## S
 - Sharon Saji
 - [Shikhar Sharma](https://github.com/shikjazz)
@@ -32,7 +37,7 @@
 ## T
 
 - [Timonwa Akintokun](https://tech.timonwa.com/blog)
-- [kamalesh](https://github.com/tvmkamalesh303-maker)
+
 ## Z
 - [Zack Bond](https://github.com/shivgodi7)
 
