@@ -7,7 +7,7 @@
 ## A
 
 - [Abdul Muizz](https://github.com/lone-wolve24?tab=repositories)
-  -Aman
+- [Aman](https://github.com/legaceee)
 
 [Back to top 🔝](#table-of-contents)
 
@@ -23,19 +23,23 @@
 - [John Doe](https://example.com)
 - [jobin sabu](https://github.com/JOBIN-SABU)
 - Jason
+- [Jeba Kishore J](https://github.com/jebakishore509-sys)
 
 [Back to top 🔝](#table-of-contents)
+## K
 
+- [kamalesh](https://github.com/tvmkamalesh3031-maker)
+
+[Back to top 🔝](#table-of-contents)
 ## S
-
 - Sharon Saji
+- [Shikhar Sharma](https://github.com/shikjazz)
 
 ## T
 
 - [Timonwa Akintokun](https://tech.timonwa.com/blog)
 
 ## Z
-
 - [Zack Bond](https://github.com/shivgodi7)
 
 [Back to top 🔝](#table-of-contents)
