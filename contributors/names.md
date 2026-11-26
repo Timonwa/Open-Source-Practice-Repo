@@ -7,6 +7,7 @@
 ## A
 
 - [Abdul Muizz](https://github.com/lone-wolve24?tab=repositories)
+- [Aman](https://github.com/legaceee)
 
 [Back to top 🔝](#table-of-contents)
 
